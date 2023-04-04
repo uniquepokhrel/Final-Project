@@ -1,0 +1,20 @@
+1: First, create a new Django project: by following code
+{
+    django-admin startproject myblog
+
+}
+2: Create a new Django app: by following code
+{
+    cd myblog
+python manage.py startapp blog
+
+}
+
+ 3: Define the models for your blog app in models.py:
+ 4: Create the necessary views in views.py:
+ 5: Create the necessary templates in the templates folder:
+ 6: Define the necessary URL routes in urls.py:
+ 7: At last, You can now run your Django application with python manage.py runserver.
+
+
+

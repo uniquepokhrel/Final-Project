@@ -1,0 +1,10 @@
+myblog/
+  templates/
+    base.html
+    home.html
+    create_post.html
+    edit_post.html
+    post_detail.html
+    registration/
+      login.html
+      signup.html
